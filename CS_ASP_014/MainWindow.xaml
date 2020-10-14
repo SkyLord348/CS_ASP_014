@@ -9,7 +9,7 @@
     <Grid>
         <Label x:Name="labelTitle" Content="Working Wih date Time" HorizontalAlignment="Left" Margin="228,89,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold"/>
         <Button x:Name="buttonActivate" Content="Ok Go" HorizontalAlignment="Left" Margin="239,177,0,0" VerticalAlignment="Top" Height="45" Width="155" FontSize="18" FontWeight="Bold" Click="buttonActivate_Click"/>
-        <Label x:Name="labelOutput" Content="Label" HorizontalAlignment="Left" Margin="279,260,0,0" VerticalAlignment="Top" Height="35" Width="206" FontSize="18" FontWeight="Bold"/>
+        <Label x:Name="labelOutput" Content="Label" HorizontalAlignment="Left" Margin="204,259,0,0" VerticalAlignment="Top" Height="35" Width="367" FontSize="18" FontWeight="Bold"/>
 
     </Grid>
 </Window>

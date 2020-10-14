@@ -28,9 +28,28 @@ namespace CS_ASP_014
         private void buttonActivate_Click(object sender, RoutedEventArgs e)
         {
 
-            DateTime myDate = DateTime.Now;
+            //DateTime myDate = DateTime.Now;
 
-            labelOutput.Content = myDate.ToString();
+            //labelOutput.Content = myDate.ToString();
+            //labelOutput.Content = myDate.ToLongDateString();
+            //labelOutput.Content = myDate.ToLongTimeString();
+            //labelOutput.Content = myDate.ToShortDateString();
+            //labelOutput.Content = myDate.ToShortTimeString();
+
+            //labelOutput.Content = myDate.AddDays(2).ToString();
+            //labelOutput.Content = myDate.AddMonths(-2).ToString();
+
+            //labelOutput.Content = myDate.IsDaylightSavingTime();
+            //labelOutput.Content = myDate.DayOfWeek.ToString();
+
+            //DateTime myDate = DateTime.Parse("12/09/1963");
+
+
+            //DateTime myDate = new DateTime(1963, 12, 9);
+            //labelOutput.Content = myDate.ToString();
+
+
+
 
 
 
